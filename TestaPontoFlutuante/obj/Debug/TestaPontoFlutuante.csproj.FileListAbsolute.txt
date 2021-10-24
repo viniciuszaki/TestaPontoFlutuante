@@ -1,0 +1,7 @@
+C:\Users\vinic\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\vinic\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\vinic\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\vinic\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\vinic\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb
